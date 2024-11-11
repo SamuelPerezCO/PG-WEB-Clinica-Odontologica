@@ -1,0 +1,19 @@
+:root{
+    --mainclr:#239f85;
+    --secclr:#ff5d22;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    transition: .2s;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+html{
+    font-size: 62.5%;
+    overflow: hidden;
+}
